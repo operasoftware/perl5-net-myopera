@@ -8,7 +8,7 @@ WriteMakefile(
     VERSION_FROM        => 'lib/Net/MyOpera.pm',
     ABSTRACT_FROM       => 'lib/Net/MyOpera.pm',
     ($ExtUtils::MakeMaker::VERSION >= 6.3002
-      ? ('LICENSE'=> 'perl')
+      ? ('LICENSE'=> 'BSD')
       : ()),
     PL_FILES            => {},
     PREREQ_PM => {
