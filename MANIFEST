@@ -1,0 +1,11 @@
+Changes
+examples/myopera-status
+lib/Net/MyOpera.pm
+Makefile.PL
+MANIFEST
+README
+t/00-load.t
+t/boilerplate.t
+t/oauth-url-for.t
+t/pod-coverage.t
+t/pod.t
